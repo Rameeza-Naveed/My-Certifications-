@@ -1,53 +1,52 @@
-# 🧑‍🎓 My-Certificates:
+# 🧑‍🎓 My Certificates:
 
-My Internship &amp; Course Certifications
+Welcome to my certification repository 😊  
+Here you'll find my internship and course certifications earned through various platforms and organizations.
 
-Welcome to my certification repository 😊
+## ✨ ISO/IEC 27001:2022 Information Security Associate™  
 
-# ✨ ISO/IEC 27001:2022 Information Security Associate(TM) Professional Certificate 
+📅 Issued: July 2024  
 
-📅 Issued: July 2024 
+🏢 Organization: SkillFront  
 
-🏢 Organization: SkillFront
+🔗 [View Certificate](./ISO%20professional%20certificate.pdf)
 
-🔗 [View Certificate](./ISO professional certificate.pdf)
+## ✨ Certified Email Authentication Specialist  
 
-# ✨ Certified Email Authentication Specialist 
+📅 Issued: July 2025  
 
-📅 Issued: July 2025 
+🏢 Organization: Proofpoint  
 
-🏢 Organization: Proofpoint 
+🔗 [View Certificate](./Certified%20Email%20Authentication%20Specialist.pdf)
 
-🔗 [View Certificate](./Certified Email Authentication Specialist.pdf)
+## ✨ Awareness Specialist Training Certification  
 
-# ✨ Awareness Specialist Training Certification 
+📅 Issued: July 2025  
 
-📅 Issued: July 2025
+🏢 Organization: Proofpoint  
 
-🏢 Organization: Proofpoint
+🔗 [View Certificate](./Awareness%20Specialist%20Training.pdf)
 
-🔗 [View Certificate](./Awareness Specialist Training.pdf)
+## ✨ Student SOC Program Foundations Training  
 
-# ✨ Student SOC Program Foundations Training
+📅 Issued: June 2025  
 
-📅 Issued: June 2025 
+🏢 Organization: Microsoft  
 
-🏢 Organization: Microsoft 
+🔗 [View Certificate](./Certificate%20of%20Completion.pdf)
 
-🔗[View Certificate](./Certificate of Completion.pdf)
+## ✨ Foundation Of Cyber Security (Google Professional Certificate)  
 
-# ✨ Foundation Of Cyber Security (Google Professional Certificate)
+📅 Issued: June 2025  
 
-📅 Issued: June 2025
+🏢 Organization: Coursera  
 
-🏢 Organization: Coursera 
+🔗 [View Certificate](./Foundation%20Of%20Cyber%20Security%20Certificate.pdf)
 
-🔗 [View Certificate](./Foundation Of Cyber Security Certificate.pdf)
+## ✨ CFSS Internship Certificate  
 
-# ✨ CFSS Internship Certificate 
+📅 Issued: July 2024  
 
-📅 Issued: July 2024
+🏢 Organization: CFSS  
 
-🏢 Organization: CFSS
-
-🔗 [View Certificate](./CFSS Internship Certificate.pdf)
+🔗 [View Certificate](./CFSS%20Internship%20Certificate.pdf)
