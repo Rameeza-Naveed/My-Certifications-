@@ -10,7 +10,7 @@ Welcome to my certification repository 😊
 
 🏢 Organization: SkillFront
 
-🔗 [View Certificate] (./ISO professional certificate.pdf)
+🔗 [View Certificate](./ISO professional certificate.pdf)
 
 # ✨ Certified Email Authentication Specialist 
 
