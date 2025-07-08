@@ -35,14 +35,6 @@ Here you'll find my internship and course certifications earned through various 
 
 🔗 [View Certificate](./Certificate%20of%20Completion.pdf)
 
-## ✨ Foundation Of Cyber Security (Google Professional Certificate)  
-
-📅 Issued: June 2025  
-
-🏢 Organization: Coursera  
-
-🔗 [View Certificate](./Foundation%20Of%20Cyber%20Security%20Certificate.pdf)
-
 ## ✨ CFSS Internship Certificate  
 
 📅 Issued: July 2024  
